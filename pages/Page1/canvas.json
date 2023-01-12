@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1290,
+          "bottomRow": 820,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -108,7 +108,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-              "originalBottomRow": 44,
+              "originalBottomRow": 39,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -374,7 +374,7 @@
               "renderMode": "CANVAS",
               "horizontalAlignment": "LEFT",
               "isVisibleSearch": true,
-              "originalTopRow": 16,
+              "originalTopRow": 22,
               "isVisiblePagination": true,
               "verticalAlignment": "CENTER"
             },
@@ -438,8 +438,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 16,
-              "bottomRow": 20,
+              "topRow": 9,
+              "bottomRow": 14,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -462,7 +462,7 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "hhkh\n",
+              "text": "lo XD\n\n",
               "key": "e416ormxlw",
               "isDeprecated": false,
               "rightColumn": 38,
@@ -596,6 +596,7 @@
                 }
               },
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "originalBottomRow": 74,
               "defaultSelectedRowIndices": [
                 0
               ],
@@ -659,6 +660,7 @@
               "renderMode": "CANVAS",
               "horizontalAlignment": "LEFT",
               "isVisibleSearch": true,
+              "originalTopRow": 46,
               "isVisiblePagination": true,
               "verticalAlignment": "CENTER"
             },
