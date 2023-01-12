@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1292,
+          "bottomRow": 1290,
           "containerStyle": "none",
           "snapRows": 125,
           "parentRowSpace": 1,
@@ -438,8 +438,8 @@
                 "paragraph",
                 "label"
               ],
-              "topRow": 9,
-              "bottomRow": 13,
+              "topRow": 16,
+              "bottomRow": 20,
               "parentRowSpace": 10,
               "type": "TEXT_WIDGET",
               "hideCard": false,
@@ -458,14 +458,11 @@
                 },
                 {
                   "key": "borderRadius"
-                },
-                {
-                  "key": "text"
                 }
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-              "text": "{{Table1.selectedRow.email}}",
+              "text": "hhkh\n",
               "key": "e416ormxlw",
               "isDeprecated": false,
               "rightColumn": 38,
